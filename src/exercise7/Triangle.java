@@ -13,10 +13,16 @@ public class Triangle {
             printLine(1, line);
         }
 
+        for (int l = n-1; l >= 1; l--)
+        {
+          printLine(1, line)
+        }
+
         // Print the bottom part of the triangle that is under the longest line
     }
 
     public static void printLine(int start, int end) {
         // Implement method
+        
     }
 }
